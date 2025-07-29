@@ -1,9 +1,3 @@
-Here's a complete and well-formatted `README.md` for your **AgriTech project**, ready to be uploaded to your GitHub repo:
-👉 [https://github.com/B-Karthik1324/Agri\_Tech](https://github.com/B-Karthik1324/Agri_Tech)
-
----
-
-```markdown
 # 🌿 AGRITECH – AI-Powered Plant Disease Detection System
 
 A smart web application built with **Flask** that detects plant diseases from uploaded leaf images using deep learning, and provides insights like causes, cures, and prevention using **Gemini AI**. It also features user authentication, detection history tracking, and a feedback system.
@@ -34,7 +28,7 @@ A smart web application built with **Flask** that detects plant diseases from up
 | 🔐 Flask Sessions            | User session management                        |
 
 ---
-
+```
 ## 📁 Folder Structure
 
 Agri_Tech/
@@ -50,8 +44,8 @@ Agri_Tech/
 │   └── history.html
 ├── static/
 │   └── uploads/            # Uploaded leaf images
+```
 
-````
 
 ---
 
